@@ -1,0 +1,20 @@
+# OLA Cab Data Analysis 🚖📊
+
+A data analytics project using **Excel, SQL, and Power BI** to extract insights from simulated OLA cab booking data.  
+It includes SQL queries, customer/driver behavior analysis, cancellation trends, and a fully interactive Power BI dashboard.
+
+🔧 Technologies Used:  
+- SQL (MySQL)
+- Excel  
+- Power BI
+
+📊 Key Insights:  
+- Top customer behaviors  
+- Cancellations by reason & type  
+- Ride distance and rating trends  
+- Payment method usage
+
+🎥 Included:  
+- Dashboard video  
+- SQL query screenshots  
+- Power BI visual export
